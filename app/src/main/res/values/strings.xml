@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="prompt">CHOOSE YOUR HAND!</string>
+    <string name="challenge">TWO HANDS ENTER, ONE HAND LEAVES</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="scissors">SCISSORS</string>
+</resources>
